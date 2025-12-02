@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ロンリーラプソディ",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-02T20:49:10.331207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロンリーラプソディ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_ロンリーラプソディ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロンリーラプソディ - Lonely Rhapsody",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/02_ロンリーラプソディ_-_Lonely_Rhapsody_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロンリーラプソディ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_ロンリーラプソディ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ロンリーラプソディ (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_ロンリーラプソディ_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
